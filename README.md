@@ -1,10 +1,9 @@
 # Aplikasi Manajemen Turnamen Esport (CLI - Java OOP)
 
-## 1. Identitas Mahasiswa
 - **Nama** : Muhammad Dylan Al Furqon
 - **NIM**  : 2509116038
 
-## 2. Deskripsi Studi Kasus
+## Deskripsi Studi Kasus
 Aplikasi ini adalah program berbasis **Command Line Interface (CLI)** yang mensimulasikan
 sistem **Manajemen Turnamen Esport**. Program memungkinkan panitia turnamen untuk:
 
