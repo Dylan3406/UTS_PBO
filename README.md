@@ -1,4 +1,4 @@
-# Aplikasi Manajemen Turnamen Esport (CLI - Java OOP)
+# Aplikasi Manajemen Turnamen Esport
 
 - **Nama** : Muhammad Dylan Al Furqon
 - **NIM**  : 2509116038
