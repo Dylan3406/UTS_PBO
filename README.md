@@ -164,8 +164,18 @@ Setelah dijalankan, program akan menampilkan menu berikut:
 
 ## Tangkapan Layar (Screenshot) Program Berjalan
 
-![Contoh tampilan program](screenshots/contoh_run.png)
+<img width="516" height="303" alt="image" src="https://github.com/user-attachments/assets/1739eb41-f0c0-458e-98fa-5d882062f1bc" /> <br>
+ini adalah tampilan output jika kita menambahkan data peserta solo atau perorangan, ID Peserta dibuat string untuk membedakan antara ID Peserta Solo dan ID peserta tim, Nama adalah nama asli dari peserta (bisa nama panggilan atau nama panjang), Gamer tag adalah nama yang ada di dalam game atau yang biasa disebut nickname dari peserta tersebut <br>
 
-> **Catatan:** Gambar di atas hanya contoh format tampilan program. Ganti dengan
-> screenshot hasil menjalankan program dari terminal/IDE masing-masing sebelum
-> dikumpulkan.
+<img width="509" height="364" alt="image" src="https://github.com/user-attachments/assets/3bc060cc-2ffc-4bae-8d2d-8bdf3359c3fa" /> <br>
+ini adalah tampilan output jika kita menambahkan data peserta Tim, ID peserta dibuat string agar pada saat update nanti kita bisa membedakan ID Peserta Solo dan ID Peserta tim, kemudian akan diminta menginput nama tim dan juga nama asli atau nama panggilan dari kapten tim tersebut, game yang mereka ikuti perlombaannya, dan juga jumlah pemain (diluar kapten) beserta nama-namanya <br>
+
+<img width="510" height="501" alt="image" src="https://github.com/user-attachments/assets/7db18245-7bc5-45e9-b20a-afcbb4e33c27" /> <br>
+ini adalah tampilan output jika kita ingin melihat data peserta yang sudah kita tambahkan pada proses sebelumnya <br>
+
+<img width="514" height="271" alt="image" src="https://github.com/user-attachments/assets/e759012f-c31a-44e0-8ca9-9e43371e6ba0" /> <br>
+ini adalah tampilan output jika kita ingin mengubah status poin yang dimiliki setiap peserta tim maupun solo. <br>
+
+<img width="497" height="312" alt="image" src="https://github.com/user-attachments/assets/5e53959f-259d-4ad1-8139-91268a03befd" /> <br>
+dan ini adalah hasil dari status poin yang sudah berhasil di update <br>
+
