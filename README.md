@@ -18,7 +18,7 @@ struktur datanya (solo vs tim) namun memiliki banyak kesamaan perilaku (memiliki
 nama, game yang diikuti, dan poin) — sehingga sangat relevan untuk menerapkan konsep
 **inheritance**.
 
-## 3. Hierarki Class (Class Diagram Sederhana)
+## Hierarki Class (Class Diagram Sederhana)
 
 ```
                     Peserta (abstract)
@@ -62,7 +62,7 @@ nama, game yang diikuti, dan poin) — sehingga sangat relevan untuk menerapkan 
 - `Turnamen` memiliki (aggregation) banyak objek `Peserta` melalui `List<Peserta>`
 - `Main` menggunakan `Turnamen` untuk menjalankan seluruh logika lewat menu CLI
 
-## 4. Penjelasan Penerapan Inheritance
+## Penjelasan Penerapan Inheritance
 
 Kelas `Peserta` dibuat sebagai **superclass abstrak** yang menyimpan atribut dan
 perilaku umum yang dimiliki oleh semua jenis peserta turnamen (ID, nama, game yang
@@ -128,7 +128,7 @@ Selain inheritance & polymorphism, program ini juga menerapkan **encapsulation**
 (seluruh field bersifat `private` dan hanya bisa diakses lewat getter/setter) dan
 **abstraction** (kelas `Peserta` bersifat abstrak dan tidak bisa diinstansiasi langsung).
 
-## 5. Struktur Berkas
+## Struktur Berkas
 
 ```
 EsportTournamentManagement/
@@ -143,7 +143,7 @@ EsportTournamentManagement/
 └── README.md
 ```
 
-## 6. Cara Menjalankan Program
+## Cara Menjalankan Program
 
 ```bash
 cd src
@@ -162,7 +162,7 @@ Setelah dijalankan, program akan menampilkan menu berikut:
 0. Keluar
 ```
 
-## 7. Tangkapan Layar (Screenshot) Program Berjalan
+## Tangkapan Layar (Screenshot) Program Berjalan
 
 ![Contoh tampilan program](screenshots/contoh_run.png)
 
